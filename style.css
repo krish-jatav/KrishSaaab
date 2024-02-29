@@ -7,6 +7,7 @@
             margin: 0;
             padding: 0;
             box-sizing: border-box;
+            font-family: pop;
         }
         
         html,
@@ -87,7 +88,7 @@
         #nav-prt-1 h5 {
             font-size: 1.3vw;
             text-transform: uppercase;
-            font-family: poppins;
+            font-family: pop;
             font-weight: 100;
             font-family: staff;
             cursor: pointer;
@@ -111,7 +112,7 @@
             /* background-color: #D6AE5D; */
             /* overflow: hidden; */
             font-weight: 100;
-            font-family: poppins;
+            font-family: pop;
         }
         
         .elem {
@@ -122,19 +123,19 @@
         
         #page-1 h2 {
             font-size: 9vw;
-            /* font-family: poppins; */
+            /* font-family: pop; */
             word-spacing: -100px;
             position: relative;
             left: 680px;
             top: -40px;
             font-weight: 100;
             color: #423e3a;
-            font-family: poppins;
+            font-family: pop;
         }
         
         .latters {
             font-size: 10vw;
-            font-family: poppins;
+            font-family: pop;
             font-weight: 100;
             transition: ease-in.5s;
             color: #b8b0b0;
@@ -150,7 +151,7 @@
         
         .latters2 {
             font-size: 10vw;
-            font-family: poppins;
+            font-family: pop;
             font-weight: 100;
         }
         
@@ -160,7 +161,7 @@
         
         .latters3 {
             font-size: 10vw;
-            font-family: poppins;
+            font-family: pop;
             font-weight: 100;
         }
         
@@ -177,7 +178,7 @@
         
         #page-1 h3 {
             font-size: 8vw;
-            /* font-family: poppins; */
+            /* font-family: pop; */
             word-spacing: -100px;
             position: relative;
             top: -60px;
@@ -220,7 +221,7 @@
             background-color: black;
             border: 1px solid rgb(255, 255, 255);
             color: #fffcfc;
-            font-family: poppins;
+            font-family: pop;
             position: relative;
             overflow: hidden;
             font-size: 17px;
@@ -328,7 +329,7 @@
         #scroll>h1 {
             font-size: 10vw;
             text-transform: uppercase;
-            font-family: poppins;
+            font-family: pop;
             font-style: italic;
             font-weight: 100;
             left: -100%;
@@ -500,7 +501,7 @@
         
         .box-1 h3 {
             font-size: 5vw;
-            font-family: poppins;
+            font-family: pop;
             font-weight: 100;
             /* color: #000000; */
             position: relative;
@@ -510,7 +511,7 @@
         
         .box-1 p {
             font-size: 1vw;
-            font-family: poppins;
+            font-family: pop;
             font-weight: 100;
             color: #000000;
             position: relative;
@@ -524,7 +525,7 @@
         
         .mid-box h5 {
             font-size: 5vw;
-            font-family: poppins;
+            font-family: pop;
             font-weight: 100;
             color: #000000;
             position: relative;
@@ -534,7 +535,7 @@
         
         .mid-box p {
             font-size: 1vw;
-            font-family: poppins;
+            font-family: pop;
             font-weight: 100;
             color: #000000;
             position: relative;
@@ -582,7 +583,7 @@
         #scroll-2>h1 {
             font-size: 10vw;
             text-transform: uppercase;
-            font-family: poppins;
+            font-family: pop;
             font-style: italic;
             font-weight: 100;
             left: -100%;
@@ -710,7 +711,7 @@
         }
         
         .elem-div h3 {
-            font-family: poppins;
+            font-family: pop;
             font-weight: 100;
             font-size: 1vw;
             text-align: center;
@@ -802,7 +803,7 @@
         }
         
         .que h1 {
-            font-family: poppins;
+            font-family: pop;
             font-size: 1vw;
             font-weight: 100;
             margin-top: 12px;
@@ -836,7 +837,7 @@
         #scroll3>h1 {
             font-size: 10vw;
             text-transform: uppercase;
-            font-family: poppins;
+            font-family: pop;
             font-style: italic;
             font-weight: 100;
             left: -100%;
@@ -854,7 +855,7 @@
         }
         
         #page9 h1 {
-            font-family: poppins;
+            font-family: pop;
             font-size: 5vw;
             font-weight: 100;
             position: relative;
@@ -873,7 +874,7 @@
             background-color: transparent;
             border: 1px solid rgb(255, 255, 255);
             color: #f0e2e2;
-            font-family: poppins;
+            font-family: pop;
             position: relative;
             overflow: hidden;
             font-size: 20px;
@@ -933,7 +934,7 @@
         }
         
         .btmm h2 {
-            font-family: poppins;
+            font-family: pop;
             font-size: 1.2vw;
             color: #b8b0b0;
             font-weight: 100;
