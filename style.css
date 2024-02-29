@@ -1,6 +1,6 @@
         @font-face {
             font-family: pop;
-            src: url(/Poppins-Light.ttf);
+            src: url(./Poppins-Light.ttf);
         }
         
         * {
@@ -403,7 +403,7 @@
             object-fit: cover;
             /* overflow-y: hidden; */
             /* z-index: 99999; */
-            background-image: url(/images/new\ img2.jpg);
+            background-image: url(./images/new\ img2.jpg);
         }
         
         #img-pin2 #img33 {
@@ -416,7 +416,7 @@
             background-size: cover;
             object-fit: cover;
             z-index: 99999999;
-            background-image: url(/images/new\ imgccc.jpg);
+            background-image: url(./images/new\ imgccc.jpg);
             border-radius: 300px;
             /* background-color: #000000; */
             top: -350px;
@@ -599,7 +599,7 @@
             width: 105%;
             height: 100vh;
             overflow: auto;
-            background-image: url(/images/new\ scroll\ img22.jpg);
+            background-image: url(./images/new\ scroll\ img22.jpg);
             background-position: center;
             background-size: cover;
             overflow: hidden;
@@ -623,7 +623,7 @@
         }
         
         #page5 .pp1 {
-            background-image: url(/images/new\ scroll\ img.jpg);
+            background-image: url(./images/new\ scroll\ img.jpg);
             background-position: center;
             background-size: cover;
             height: 400px;
@@ -638,7 +638,7 @@
         }
         
         #page5 .pp2 {
-            background-image: url(/images/waterfall22.jpg);
+            background-image: url(./images/waterfall22.jpg);
             background-position: center;
             background-size: cover;
             height: 400px;
